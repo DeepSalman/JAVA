@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Dont know what">
-      <change afterPath="$PROJECT_DIR$/src/Strings.java" afterDir="false" />
+    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Created Package and String update">
+      <change afterPath="$PROJECT_DIR$/src/StringsAll/Strings2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,7 @@
     "Application.Main.executor": "Run",
     "Application.StringInput.executor": "Run",
     "Application.Strings.executor": "Run",
+    "Application.Strings2.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -79,7 +80,7 @@
       <updated>1753335875099</updated>
       <workItem from="1753335876010" duration="7000" />
       <workItem from="1753335906677" duration="374000" />
-      <workItem from="1753357063885" duration="917000" />
+      <workItem from="1753357063885" duration="1457000" />
     </task>
     <task id="LOCAL-00001" summary="First Integration">
       <option name="closed" value="true" />
@@ -113,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753357144964</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Created Package and String update">
+      <option name="closed" value="true" />
+      <created>1753358314690</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1753358314690</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +132,7 @@
     <MESSAGE value="First Integration" />
     <MESSAGE value="Taking String Input !" />
     <MESSAGE value="Dont know what" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dont know what" />
+    <MESSAGE value="Created Package and String update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Package and String update" />
   </component>
 </project>
