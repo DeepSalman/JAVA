@@ -1,7 +1,7 @@
 package Static;
 class Students{
     static int count =0;
-
+    //Constructor
     Students(){
         count++;
     }
