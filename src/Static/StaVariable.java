@@ -4,6 +4,7 @@ class Student{
     int id;
     static String UniversityName="UIU";
 
+    //constructor building
     Student(String a,int b){
         name=a;
         id=b;
