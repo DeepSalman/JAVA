@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Constructor:constructors Overloading Example.">
-      <change afterPath="$PROJECT_DIR$/src/Class/Cls1.java" afterDir="false" />
+    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Created Class as taught in oop class">
+      <change afterPath="$PROJECT_DIR$/src/Static/StaVariable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     "Application.DefCons.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.ParaCons.executor": "Run",
+    "Application.StaVariable.executor": "Run",
     "Application.String3.executor": "Run",
     "Application.String4.executor": "Run",
     "Application.StringInput.executor": "Run",
@@ -90,7 +91,7 @@
       <workItem from="1753357063885" duration="4179000" />
       <workItem from="1753601484365" duration="151000" />
       <workItem from="1753601689691" duration="1463000" />
-      <workItem from="1753616583042" duration="326000" />
+      <workItem from="1753616583042" duration="1684000" />
     </task>
     <task id="LOCAL-00001" summary="First Integration">
       <option name="closed" value="true" />
@@ -180,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753602940060</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Created Class as taught in oop class">
+      <option name="closed" value="true" />
+      <created>1753617280970</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1753617280970</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +206,7 @@
     <MESSAGE value="Constructor: Parameterized constructors" />
     <MESSAGE value="Constructor: Default constructors Example." />
     <MESSAGE value="Constructor:constructors Overloading Example." />
-    <option name="LAST_COMMIT_MESSAGE" value="Constructor:constructors Overloading Example." />
+    <MESSAGE value="Created Class as taught in oop class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Class as taught in oop class" />
   </component>
 </project>
