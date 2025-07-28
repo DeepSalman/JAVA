@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Private Inheritance Example" />
+    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Creating polymorphism">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Polymorphism/poly1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polymorphism/poly1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +64,7 @@
     "Application.Strings.executor": "Run",
     "Application.Strings2.executor": "Run",
     "Application.TestStatMethod.executor": "Run",
+    "Application.poly1.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -99,7 +103,7 @@
       <workItem from="1753616583042" duration="3957000" />
       <workItem from="1753681489283" duration="2188000" />
       <workItem from="1753688721248" duration="2147000" />
-      <workItem from="1753705216311" duration="3037000" />
+      <workItem from="1753705216311" duration="4962000" />
     </task>
     <task id="LOCAL-00001" summary="First Integration">
       <option name="closed" value="true" />
@@ -309,7 +313,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753707414970</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Creating polymorphism">
+      <option name="closed" value="true" />
+      <created>1753710422819</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1753710422819</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,6 +348,7 @@
     <MESSAGE value="Understanding Encapsulation." />
     <MESSAGE value="Inheritance Example" />
     <MESSAGE value="Private Inheritance Example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Private Inheritance Example" />
+    <MESSAGE value="Creating polymorphism" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating polymorphism" />
   </component>
 </project>
