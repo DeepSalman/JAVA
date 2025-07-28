@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Understanding Encapsulation.">
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Inherit1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Inheritance Example">
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/PrivateInheritance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,7 @@
     "Application.Main.executor": "Run",
     "Application.MathOpra.executor": "Run",
     "Application.ParaCons.executor": "Run",
+    "Application.PrivateInheritance.executor": "Run",
     "Application.StaVariable.executor": "Run",
     "Application.StatBlock.executor": "Run",
     "Application.StatVariable2.executor": "Run",
@@ -101,7 +101,7 @@
       <workItem from="1753616583042" duration="3957000" />
       <workItem from="1753681489283" duration="2188000" />
       <workItem from="1753688721248" duration="2147000" />
-      <workItem from="1753705216311" duration="820000" />
+      <workItem from="1753705216311" duration="1935000" />
     </task>
     <task id="LOCAL-00001" summary="First Integration">
       <option name="closed" value="true" />
@@ -295,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753691009352</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Inheritance Example">
+      <option name="closed" value="true" />
+      <created>1753706114086</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1753706114086</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,6 +328,7 @@
     <MESSAGE value="Static Block Example" />
     <MESSAGE value="Math class exploration" />
     <MESSAGE value="Understanding Encapsulation." />
-    <option name="LAST_COMMIT_MESSAGE" value="Understanding Encapsulation." />
+    <MESSAGE value="Inheritance Example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance Example" />
   </component>
 </project>
