@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Compile and runtime polymorphism creation">
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/PolyPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstruction/MobileUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +53,7 @@
     "Application.Inherit1.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MathOpra.executor": "Run",
+    "Application.MobileUser.executor": "Run",
     "Application.ParaCons.executor": "Run",
     "Application.Poly2.executor": "Run",
     "Application.PolyPractice.executor": "Run",
@@ -105,6 +107,8 @@
       <workItem from="1753681489283" duration="2188000" />
       <workItem from="1753688721248" duration="2147000" />
       <workItem from="1753705216311" duration="5854000" />
+      <workItem from="1753717344088" duration="12000" />
+      <workItem from="1753717370731" duration="1052000" />
     </task>
     <task id="LOCAL-00001" summary="First Integration">
       <option name="closed" value="true" />
