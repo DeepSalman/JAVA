@@ -11,6 +11,8 @@ abstract class Shape {
 
 class Rectangle extends Shape {
     int length;
+
+
     int width;
 
     Rectangle(int length, int width){
