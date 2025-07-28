@@ -26,5 +26,7 @@ public class MathOpra {
         System.out.println(Math.floor(-5.6));
 
 
+
+
     }
 }
