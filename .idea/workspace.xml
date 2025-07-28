@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Solving a abstraction related problem">
-      <change afterPath="$PROJECT_DIR$/src/Abstruction/Interface.java" afterDir="false" />
-    </list>
+    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Interface lookup" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +48,7 @@
     "Application.Encap.executor": "Run",
     "Application.Encap2.executor": "Run",
     "Application.Inherit1.executor": "Run",
+    "Application.Interface.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MathOpra.executor": "Run",
     "Application.MiniProblem.executor": "Run",
@@ -108,7 +107,7 @@
       <workItem from="1753688721248" duration="2147000" />
       <workItem from="1753705216311" duration="5854000" />
       <workItem from="1753717344088" duration="12000" />
-      <workItem from="1753717370731" duration="5361000" />
+      <workItem from="1753717370731" duration="5959000" />
     </task>
     <task id="LOCAL-00001" summary="First Integration">
       <option name="closed" value="true" />
@@ -358,7 +357,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753724958969</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Interface lookup">
+      <option name="closed" value="true" />
+      <created>1753725626169</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1753725626169</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,6 +396,7 @@
     <MESSAGE value="Compile and runtime polymorphism creation" />
     <MESSAGE value="Understanding Abstraction" />
     <MESSAGE value="Solving a abstraction related problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solving a abstraction related problem" />
+    <MESSAGE value="Interface lookup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interface lookup" />
   </component>
 </project>
