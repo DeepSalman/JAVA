@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Math class exploration">
-      <change beforePath="$PROJECT_DIR$/src/MathClass/MathOpra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathClass/MathOpra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Encap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Encap2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +49,8 @@
     "Application.Cls1.executor": "Run",
     "Application.ConsOverload.executor": "Run",
     "Application.DefCons.executor": "Run",
+    "Application.Encap.executor": "Run",
+    "Application.Encap2.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MathOpra.executor": "Run",
     "Application.ParaCons.executor": "Run",
@@ -95,7 +99,8 @@
       <workItem from="1753601484365" duration="151000" />
       <workItem from="1753601689691" duration="1463000" />
       <workItem from="1753616583042" duration="3957000" />
-      <workItem from="1753681489283" duration="1553000" />
+      <workItem from="1753681489283" duration="2188000" />
+      <workItem from="1753688721248" duration="1780000" />
     </task>
     <task id="LOCAL-00001" summary="First Integration">
       <option name="closed" value="true" />
@@ -265,7 +270,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753683094426</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Math class exploration">
+      <option name="closed" value="true" />
+      <created>1753683368312</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1753683368312</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Math class exploration">
+      <option name="closed" value="true" />
+      <created>1753683812782</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1753683812782</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
