@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Practice File">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedListBasic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Linked List Basics">
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/StudentClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +70,7 @@
     "Application.StringInput.executor": "Run",
     "Application.Strings.executor": "Run",
     "Application.Strings2.executor": "Run",
+    "Application.StudentClass.executor": "Run",
     "Application.TestStatMethod.executor": "Run",
     "Application.poly1.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -120,7 +120,7 @@
       <workItem from="1753705216311" duration="5854000" />
       <workItem from="1753717344088" duration="12000" />
       <workItem from="1753717370731" duration="6698000" />
-      <workItem from="1754016988582" duration="3401000" />
+      <workItem from="1754016988582" duration="4601000" />
     </task>
     <task id="LOCAL-00001" summary="First Integration">
       <option name="closed" value="true" />
@@ -402,14 +402,21 @@
       <option name="project" value="LOCAL" />
       <updated>1754017973440</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Linked List Basics">
+      <option name="closed" value="true" />
+      <created>1754020888858</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1754020888858</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Dont know what" />
     <MESSAGE value="Created Package and String update" />
     <MESSAGE value="String 3 creation" />
     <MESSAGE value="String 3 Updates" />
@@ -434,7 +441,8 @@
     <MESSAGE value="Interface lookup" />
     <MESSAGE value="Array File creations" />
     <MESSAGE value="Practice File" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice File" />
+    <MESSAGE value="Linked List Basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linked List Basics" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
