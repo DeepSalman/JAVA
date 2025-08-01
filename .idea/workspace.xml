@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Array File creations">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/PrtacticeClass.java" afterDir="false" />
+    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Practice File">
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedListBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
     "Application.Encap2.executor": "Run",
     "Application.Inherit1.executor": "Run",
     "Application.Interface.executor": "Run",
+    "Application.LinkedListBasic.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MathOpra.executor": "Run",
     "Application.MiniProblem.executor": "Run",
@@ -118,7 +120,7 @@
       <workItem from="1753705216311" duration="5854000" />
       <workItem from="1753717344088" duration="12000" />
       <workItem from="1753717370731" duration="6698000" />
-      <workItem from="1754016988582" duration="607000" />
+      <workItem from="1754016988582" duration="3401000" />
     </task>
     <task id="LOCAL-00001" summary="First Integration">
       <option name="closed" value="true" />
@@ -392,14 +394,21 @@
       <option name="project" value="LOCAL" />
       <updated>1754017425940</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Practice File">
+      <option name="closed" value="true" />
+      <created>1754017973440</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1754017973440</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Taking String Input !" />
     <MESSAGE value="Dont know what" />
     <MESSAGE value="Created Package and String update" />
     <MESSAGE value="String 3 creation" />
@@ -424,7 +433,8 @@
     <MESSAGE value="Solving a abstraction related problem" />
     <MESSAGE value="Interface lookup" />
     <MESSAGE value="Array File creations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array File creations" />
+    <MESSAGE value="Practice File" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice File" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
