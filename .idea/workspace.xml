@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Linked List Basics">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/StudentClass.java" afterDir="false" />
+    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Creating Student class linked list">
+      <change afterPath="$PROJECT_DIR$/src/HashMapDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
     "Application.DefCons.executor": "Run",
     "Application.Encap.executor": "Run",
     "Application.Encap2.executor": "Run",
+    "Application.HashMapDemo.executor": "Run",
     "Application.Inherit1.executor": "Run",
     "Application.Interface.executor": "Run",
     "Application.LinkedListBasic.executor": "Run",
@@ -120,7 +121,7 @@
       <workItem from="1753705216311" duration="5854000" />
       <workItem from="1753717344088" duration="12000" />
       <workItem from="1753717370731" duration="6698000" />
-      <workItem from="1754016988582" duration="4601000" />
+      <workItem from="1754016988582" duration="5607000" />
     </task>
     <task id="LOCAL-00001" summary="First Integration">
       <option name="closed" value="true" />
@@ -410,14 +411,21 @@
       <option name="project" value="LOCAL" />
       <updated>1754020888858</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Creating Student class linked list">
+      <option name="closed" value="true" />
+      <created>1754023237862</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1754023237862</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Created Package and String update" />
     <MESSAGE value="String 3 creation" />
     <MESSAGE value="String 3 Updates" />
     <MESSAGE value="String 4 Updates" />
@@ -442,7 +450,8 @@
     <MESSAGE value="Array File creations" />
     <MESSAGE value="Practice File" />
     <MESSAGE value="Linked List Basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Linked List Basics" />
+    <MESSAGE value="Creating Student class linked list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating Student class linked list" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
