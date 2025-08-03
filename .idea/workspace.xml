@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Creating HashMap">
-      <change afterPath="$PROJECT_DIR$/src/Static/StaticClassTopic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Class Content">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayClassTopic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PassbyValueReference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/TwoDArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/TwoDArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayClassTopic.executor": "Run",
     "Application.Cls1.executor": "Run",
     "Application.ConsOverload.executor": "Run",
     "Application.DefCons.executor": "Run",
@@ -124,7 +126,7 @@
       <workItem from="1753717344088" duration="12000" />
       <workItem from="1753717370731" duration="6698000" />
       <workItem from="1754016988582" duration="6507000" />
-      <workItem from="1754193495584" duration="487000" />
+      <workItem from="1754193495584" duration="816000" />
     </task>
     <task id="LOCAL-00001" summary="First Integration">
       <option name="closed" value="true" />
@@ -430,14 +432,21 @@
       <option name="project" value="LOCAL" />
       <updated>1754026586858</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Class Content">
+      <option name="closed" value="true" />
+      <created>1754194021832</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1754194021832</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="String 3 Updates" />
     <MESSAGE value="String 4 Updates" />
     <MESSAGE value="Constructor: Parameterized constructors" />
     <MESSAGE value="Constructor: Default constructors Example." />
@@ -462,7 +471,8 @@
     <MESSAGE value="Linked List Basics" />
     <MESSAGE value="Creating Student class linked list" />
     <MESSAGE value="Creating HashMap" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating HashMap" />
+    <MESSAGE value="Class Content" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class Content" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
