@@ -1,6 +1,6 @@
 package Static;
 
-public class StatMethod {
+class StaticMethod {
     void display1(){
         System.out.println("I am non Static method");
     }
@@ -9,5 +9,15 @@ public class StatMethod {
     //This specific method can be used anywhere inside the file.
     static void display2(){
         System.out.println("I am Static method");
+    }
+}
+
+public class StatMethod{
+    public static void main(String[] args) {
+
+        StaticMethod.display2();
+
+        StaticMethod sm = new StaticMethod();
+        sm.display1();
     }
 }

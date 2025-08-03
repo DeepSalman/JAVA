@@ -14,6 +14,10 @@ public class StatBlock {
     }
 
     public static void main(String[] args) {
+
+        System.out.println(StatBlock.id);
+        System.out.println(StatBlock.name);
+
         StatBlock.display1();
         // WE dont have to reference and allocate memory for an object
         // Because there is not need for object as we can access everything with class name

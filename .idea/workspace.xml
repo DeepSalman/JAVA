@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Class Content">
-      <change afterPath="$PROJECT_DIR$/src/Static/Blocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Static/StatBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Static/StatBlock.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayClassTopic.executor": "Run",
+    "Application.Blocks.executor": "Run",
     "Application.Cls1.executor": "Run",
     "Application.ConsOverload.executor": "Run",
     "Application.DefCons.executor": "Run",
@@ -125,7 +125,7 @@
       <workItem from="1753717344088" duration="12000" />
       <workItem from="1753717370731" duration="6698000" />
       <workItem from="1754016988582" duration="6507000" />
-      <workItem from="1754193495584" duration="1786000" />
+      <workItem from="1754193495584" duration="2114000" />
     </task>
     <task id="LOCAL-00001" summary="First Integration">
       <option name="closed" value="true" />
@@ -447,7 +447,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754194471306</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Class Content">
+      <option name="closed" value="true" />
+      <created>1754195440421</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1754195440421</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
