@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Class Content">
-      <change afterPath="$PROJECT_DIR$/src/FinalVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +49,10 @@
     "Application.ArrayClassTopic.executor": "Run",
     "Application.Blocks.executor": "Run",
     "Application.Cls1.executor": "Run",
+    "Application.Code2.executor": "Run",
     "Application.ConsOverload.executor": "Run",
     "Application.DefCons.executor": "Run",
+    "Application.DemoClass.executor": "Run",
     "Application.Encap.executor": "Run",
     "Application.Encap2.executor": "Run",
     "Application.FinalVariable.executor": "Run",
@@ -67,6 +70,7 @@
     "Application.PolyPractice.executor": "Run",
     "Application.PrivateInheritance.executor": "Run",
     "Application.PrtacticeClass.executor": "Run",
+    "Application.Shaziah.executor": "Run",
     "Application.StaVariable.executor": "Run",
     "Application.StatBlock.executor": "Run",
     "Application.StatMethod.executor": "Run",
@@ -128,7 +132,10 @@
       <workItem from="1753717344088" duration="12000" />
       <workItem from="1753717370731" duration="6698000" />
       <workItem from="1754016988582" duration="6507000" />
-      <workItem from="1754193495584" duration="2722000" />
+      <workItem from="1754193495584" duration="2873000" />
+      <workItem from="1754668962553" duration="4528000" />
+      <workItem from="1754926835956" duration="3600000" />
+      <workItem from="1755186995530" duration="5500000" />
     </task>
     <task id="LOCAL-00001" summary="First Integration">
       <option name="closed" value="true" />
@@ -466,7 +473,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754195819979</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Class Content">
+      <option name="closed" value="true" />
+      <created>1754196318517</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1754196318517</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
