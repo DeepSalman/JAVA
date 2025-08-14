@@ -6,6 +6,7 @@ class Students1
     String name;
     float cgpa;
 
+
     {
         System.out.println("Init Block");
     }
