@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="This Concept Basic 1">
-      <change afterPath="$PROJECT_DIR$/src/LabClassOOPTpc/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LabClassOOPTpc/ParentClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LabClassOOPTpc/Vehicle.java" afterDir="false" />
+    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Lab Class OOP concepts">
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/TypeCasting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,61 +44,62 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArrayClassTopic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Blocks.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Cls1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Code2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConsOverload.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DefCons.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DemoClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Encap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Encap2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FinalVariable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HashMapDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Inherit1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interface.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedListBasic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MathOpra.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MiniProblem.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MobileUser.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OneDArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ParaCons.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Poly2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PolyPractice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrivateInheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrtacticeClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Shaziah.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StaVariable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StatBlock.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StatMethod.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StatVariable2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StaticClassTopic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringInput.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Strings2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StudentClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestStatMethod.executor&quot;: &quot;Run&quot;,
-    &quot;Application.poly1.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Java Projects/NormalView&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;F:/Java Projects/NormalView/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayClassTopic.executor": "Run",
+    "Application.Blocks.executor": "Run",
+    "Application.Cls1.executor": "Run",
+    "Application.Code2.executor": "Run",
+    "Application.ConsOverload.executor": "Run",
+    "Application.DefCons.executor": "Run",
+    "Application.DemoClass.executor": "Run",
+    "Application.Encap.executor": "Run",
+    "Application.Encap2.executor": "Run",
+    "Application.FinalVariable.executor": "Run",
+    "Application.HashMapDemo.executor": "Run",
+    "Application.Inherit1.executor": "Run",
+    "Application.Interface.executor": "Run",
+    "Application.LinkedListBasic.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MathOpra.executor": "Run",
+    "Application.MiniProblem.executor": "Run",
+    "Application.MobileUser.executor": "Run",
+    "Application.OneDArray.executor": "Run",
+    "Application.ParaCons.executor": "Run",
+    "Application.Poly2.executor": "Run",
+    "Application.PolyPractice.executor": "Run",
+    "Application.PrivateInheritance.executor": "Run",
+    "Application.PrtacticeClass.executor": "Run",
+    "Application.Shaziah.executor": "Run",
+    "Application.StaVariable.executor": "Run",
+    "Application.StatBlock.executor": "Run",
+    "Application.StatMethod.executor": "Run",
+    "Application.StatVariable2.executor": "Run",
+    "Application.StaticClassTopic.executor": "Run",
+    "Application.String3.executor": "Run",
+    "Application.String4.executor": "Run",
+    "Application.StringInput.executor": "Run",
+    "Application.Strings.executor": "Run",
+    "Application.Strings2.executor": "Run",
+    "Application.StudentClass.executor": "Run",
+    "Application.TestStatMethod.executor": "Run",
+    "Application.TypeCasting.executor": "Run",
+    "Application.poly1.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Java Projects/NormalView",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "F:/Java Projects/NormalView/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Java Projects\NormalView\src\LabClassOOPTpc" />
@@ -138,7 +138,7 @@
       <workItem from="1754668962553" duration="4528000" />
       <workItem from="1754926835956" duration="3600000" />
       <workItem from="1755186995530" duration="6519000" />
-      <workItem from="1756428774812" duration="727000" />
+      <workItem from="1756428774812" duration="4729000" />
     </task>
     <task id="LOCAL-00001" summary="First Integration">
       <option name="closed" value="true" />
@@ -500,14 +500,21 @@
       <option name="project" value="LOCAL" />
       <updated>1755194684038</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Lab Class OOP concepts">
+      <option name="closed" value="true" />
+      <created>1756430119476</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1756430119476</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Constructor: Default constructors Example." />
     <MESSAGE value="Constructor:constructors Overloading Example." />
     <MESSAGE value="Created Class as taught in oop class" />
     <MESSAGE value="Static Variable Example" />
@@ -532,7 +539,8 @@
     <MESSAGE value="Class Content" />
     <MESSAGE value="This Concept Basic" />
     <MESSAGE value="This Concept Basic 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="This Concept Basic 1" />
+    <MESSAGE value="Lab Class OOP concepts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab Class OOP concepts" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
