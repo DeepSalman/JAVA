@@ -140,11 +140,6 @@ public class DemoClass {
         s.enrollCourse("java");
         s.enrollCourse("c");
 
-
-
-
-
-
         t.setCreatecourse("History");
         t.setCreatecourse("Physics");
 
