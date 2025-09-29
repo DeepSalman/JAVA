@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Uni class Interface Basics">
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/ExcForward.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/NestedTryCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/TC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/UserDefinedExcExp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/UserdefinedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/throwsException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Try and catch Basics" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +54,7 @@
     "Application.Encap.executor": "Run",
     "Application.Encap2.executor": "Run",
     "Application.ExcForward.executor": "Run",
+    "Application.ExceptionException.executor": "Run",
     "Application.FinalVariable.executor": "Run",
     "Application.Gui_DEMO.executor": "Run",
     "Application.HashMapDemo.executor": "Run",
@@ -162,15 +155,7 @@
       <workItem from="1758289090735" duration="7030000" />
       <workItem from="1758299307896" duration="3592000" />
       <workItem from="1759072625042" duration="1105000" />
-      <workItem from="1759158655026" duration="8546000" />
-    </task>
-    <task id="LOCAL-00004" summary="Dont know what">
-      <option name="closed" value="true" />
-      <created>1753357144964</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1753357144964</updated>
+      <workItem from="1759158655026" duration="8891000" />
     </task>
     <task id="LOCAL-00005" summary="Created Package and String update">
       <option name="closed" value="true" />
@@ -556,14 +541,21 @@
       <option name="project" value="LOCAL" />
       <updated>1758303213888</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Try and catch Basics">
+      <option name="closed" value="true" />
+      <created>1759169599692</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1759169599692</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Static method example" />
     <MESSAGE value="Static Block Example" />
     <MESSAGE value="Math class exploration" />
     <MESSAGE value="Understanding Encapsulation." />
@@ -588,7 +580,8 @@
     <MESSAGE value="GUI Swing Awi" />
     <MESSAGE value="Uni class Abs Notes" />
     <MESSAGE value="Uni class Interface Basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uni class Interface Basics" />
+    <MESSAGE value="Try and catch Basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Try and catch Basics" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
