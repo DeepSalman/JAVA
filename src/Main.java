@@ -1,58 +1,75 @@
+import java.util.InputMismatchException;
+import java.util.Scanner;
 
 
-class QurbaniAnimal{
-    void sound(){
-        System.out.println("Make Sound");
+interface Transaction {
+    public void give();
+    public void receive();
+}
+abstract class Payment implements Transaction{
+    double amount;
+    String currency ="BDT";
+
+    Payment(double amount){
+        this.amount = amount;
+    }
+
+    @Override
+    public void give(){
+//Write code here
+        System.out.println(currency+" "+amount+" is paid");
+    }
+    @Override
+    public void receive() {
+        System.out.println("[Nothing to receive]");
+    }
+    public abstract double getCharge();
+    public double getTax(){
+        return 0;
+//Write code here
+    }
+}
+class CashPay extends Payment {
+
+    CashPay(int ammount){
+        super(ammount);
+    }
+
+    public double getCharge(){
+        return 0;
     }
 }
 
-class Cow extends QurbaniAnimal{
-    void sound(){
-        System.out.println("Cow makes Sound");
+class CreditCardPay extends Payment {
+    public CreditCardPay(double amount) {
+        super(amount);
     }
 
-    void f1(){
-        System.out.println("Cow Method");
-    }
-}
-
-class Goat extends QurbaniAnimal{
-    void sound(){
-        System.out.println("Goat makes Sound");
+    @Override
+    public double getCharge() {
+        return amount * 0.025; // 2.5% charge
     }
 }
-
-class Haat{
-
-    static QurbaniAnimal buyQurbaniAnimal(String option)
-    {
-        if(option == "Cow") return new Cow();
-
-        if(option == "Goat") return new Goat();
-
-        return null;
-
+class CheckPay extends Payment {
+    public CheckPay(int amount) {
+        super(amount);
     }
+    public double getCharge(){
+        return 10.0;
+    }
+
 }
 
 
-public class Main {
 
-    public static void main(String[] args) {
-
+public class Main{
 
 
-        QurbaniAnimal q4 = new Cow();
-        q4.sound();
-//        q4.f1(); //Only Child Method, so does not run
-
-        ((Cow) q4).f1();
-
-//        q4.f1(); //q4 does not change
-
-        QurbaniAnimal q5 = new QurbaniAnimal();
-        //  ((Cow) q5).f1(); // error, cannot cast
-
+    public static void main(String[] args){
 
     }
 }
+
+
+
+
