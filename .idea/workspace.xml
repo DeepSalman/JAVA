@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Try and catch Basics">
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/ArrayList/Basic1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/ArrayList/Basic2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/ArrayList/Basic3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/ArrayList/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FILE/FileRead/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FINAL/Arraylst/Fall2024.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FINAL/Arraylst/Spring2025.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FINAL/Null.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Final Solve" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -178,23 +168,7 @@
       <workItem from="1759763882265" duration="4953000" />
       <workItem from="1759770463985" duration="2792000" />
       <workItem from="1760098569462" duration="9357000" />
-      <workItem from="1760321381400" duration="5022000" />
-    </task>
-    <task id="LOCAL-00007" summary="String 3 Updates">
-      <option name="closed" value="true" />
-      <created>1753360218940</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1753360218940</updated>
-    </task>
-    <task id="LOCAL-00008" summary="String 4 Updates">
-      <option name="closed" value="true" />
-      <created>1753360644743</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1753360644743</updated>
+      <workItem from="1760321381400" duration="5337000" />
     </task>
     <task id="LOCAL-00009" summary="Constructor: Parameterized constructors">
       <option name="closed" value="true" />
@@ -572,15 +546,29 @@
       <option name="project" value="LOCAL" />
       <updated>1760101119568</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="ArrayList">
+      <option name="closed" value="true" />
+      <created>1760327639346</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1760327639347</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Final Solve">
+      <option name="closed" value="true" />
+      <created>1760327655137</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1760327655137</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Static Block Example" />
-    <MESSAGE value="Math class exploration" />
     <MESSAGE value="Understanding Encapsulation." />
     <MESSAGE value="Inheritance Example" />
     <MESSAGE value="Private Inheritance Example" />
@@ -604,7 +592,9 @@
     <MESSAGE value="Uni class Abs Notes" />
     <MESSAGE value="Uni class Interface Basics" />
     <MESSAGE value="Try and catch Basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Try and catch Basics" />
+    <MESSAGE value="ArrayList" />
+    <MESSAGE value="Final Solve" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Solve" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
