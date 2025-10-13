@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Final Solve" />
+    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Final Solve">
+      <change afterPath="$PROJECT_DIR$/src/FINAL/Arraylst/Spring2024.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,15 +170,7 @@
       <workItem from="1759763882265" duration="4953000" />
       <workItem from="1759770463985" duration="2792000" />
       <workItem from="1760098569462" duration="9357000" />
-      <workItem from="1760321381400" duration="5337000" />
-    </task>
-    <task id="LOCAL-00009" summary="Constructor: Parameterized constructors">
-      <option name="closed" value="true" />
-      <created>1753602203531</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1753602203531</updated>
+      <workItem from="1760321381400" duration="5834000" />
     </task>
     <task id="LOCAL-00010" summary="Constructor: Default constructors Example.">
       <option name="closed" value="true" />
@@ -562,7 +556,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760327655137</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Final Solve">
+      <option name="closed" value="true" />
+      <created>1760327905027</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1760327905028</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
