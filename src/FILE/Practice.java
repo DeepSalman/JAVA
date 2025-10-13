@@ -18,7 +18,7 @@ class ST{
     }
 
     public String toString(){
-        return "Name : " + this.name + ", CG : "; /*+ this.cg;*/
+        return "Name : " + this.name + ", CG : ";
     }
 }
 
