@@ -1,4 +1,4 @@
-package ArrayList.ArrayList;
+package ArrayList;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
