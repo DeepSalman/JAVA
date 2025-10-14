@@ -4,16 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Final Solve">
-      <change afterPath="$PROJECT_DIR$/src/FILE/F1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FILE/F2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FILE/F3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FILE/Practice.java" afterDir="false" />
+    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="CT solve">
+      <change afterPath="$PROJECT_DIR$/src/OOP_Project/Allinfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Project/Contactform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Project/Delete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Project/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Project/Null.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Project/SearchBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Project/StartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Project/information" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/names" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/ArrayList/Basic1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayList/Basic1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/ArrayList/Basic2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayList/Basic2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/ArrayList/Basic3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayList/Basic3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/ArrayList/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayList/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +64,7 @@
     &quot;Application.Code2.executor&quot;: &quot;Run&quot;,
     &quot;Application.ConsOverload.executor&quot;: &quot;Run&quot;,
     &quot;Application.DefCons.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Delete.executor&quot;: &quot;Run&quot;,
     &quot;Application.DemoClass.executor&quot;: &quot;Run&quot;,
     &quot;Application.Encap.executor&quot;: &quot;Run&quot;,
     &quot;Application.Encap2.executor&quot;: &quot;Run&quot;,
@@ -179,23 +182,9 @@
       <workItem from="1759770463985" duration="2792000" />
       <workItem from="1760098569462" duration="9357000" />
       <workItem from="1760321381400" duration="6358000" />
-      <workItem from="1760334927344" duration="2667000" />
-    </task>
-    <task id="LOCAL-00012" summary="Created Class as taught in oop class">
-      <option name="closed" value="true" />
-      <created>1753617280970</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1753617280970</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Static Variable Example">
-      <option name="closed" value="true" />
-      <created>1753618292323</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1753618292323</updated>
+      <workItem from="1760334927344" duration="3495000" />
+      <workItem from="1760414356891" duration="5944000" />
+      <workItem from="1760428887570" duration="642000" />
     </task>
     <task id="LOCAL-00014" summary="Static Variable Example 2">
       <option name="closed" value="true" />
@@ -573,14 +562,29 @@
       <option name="project" value="LOCAL" />
       <updated>1760328736069</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="CT solve">
+      <option name="closed" value="true" />
+      <created>1760337642201</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1760337642202</updated>
+    </task>
+    <task id="LOCAL-00062" summary="CT solve">
+      <option name="closed" value="true" />
+      <created>1760337951215</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1760337951215</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Understanding Encapsulation." />
     <MESSAGE value="Inheritance Example" />
     <MESSAGE value="Private Inheritance Example" />
     <MESSAGE value="Creating polymorphism" />
@@ -605,7 +609,8 @@
     <MESSAGE value="Try and catch Basics" />
     <MESSAGE value="ArrayList" />
     <MESSAGE value="Final Solve" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final Solve" />
+    <MESSAGE value="CT solve" />
+    <option name="LAST_COMMIT_MESSAGE" value="CT solve" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
