@@ -1,9 +1,10 @@
 package GUI_project;
+
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-class gui implements ActionListener //implement ActionListener function to use Button action and other actions
+class GUI2 implements ActionListener //implement ActionListener function to use Button action and other actions
 {
     //Declare the required GUI variables
     JFrame frame;	//Frame is the screen where you add the components
@@ -13,7 +14,10 @@ class gui implements ActionListener //implement ActionListener function to use B
     JTextField pass;	//TextField for typing the password
     JButton login;	//Login button
 
-    public gui() 	//Constructor where we setup the frame and the components
+    //new components
+    JButton b1;
+
+    public GUI2() 	//Constructor where we setup the frame and the components
     {
         frame = new JFrame("My Login Page");	//Can add title for the frame
         username = new JLabel();
@@ -26,7 +30,7 @@ class gui implements ActionListener //implement ActionListener function to use B
         //  frame.setSize(400,400);	//set length and width of frame
 
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);	//terminates the code once the close button is clicked on the frame
-        frame.setBounds(100,100,400,400);	//set left corner and length width at the same time
+        frame.setBounds(100,100,400,500);	//set left corner and length width at the same time
 
         frame.setVisible(true);		//setVisible to true to show the frame
         frame.setLayout(null);		//this must be set to null, or else the frame will show the components using its default layout
@@ -53,26 +57,36 @@ class gui implements ActionListener //implement ActionListener function to use B
         //Add this line to the button so that the action can be called while clicking
         login.addActionListener(this);
 
+        //New Button
+        b1 = new JButton();
+        b1.setText("Another Button");
+        b1.addActionListener(this);
+        b1.setBounds(100,350,100,50);
+        frame.add(b1);
+
     }
 
     public void actionPerformed(ActionEvent e)	//override the actionPerformed method to use the Button function
     {
-        if(name.getText().equals("oop") && pass.getText().equals("1115"))
-        {
-            System.out.println("Successful");
+        if(e.getSource() == login) { // e.getSource() function tells us which button has been clicked, remember to declare the buttons(components) as class variables
+            if (name.getText().equals("oop") && pass.getText().equals("1115")) {
+                System.out.println("Successful");
+            } else {
+                System.out.println("Try Again");
+            }
         }
-        else
+        else if(e.getSource() == b1)
         {
-            System.out.println("Try Again");
+            System.out.println("b111111");
         }
     }
 }
 
 
-class Main {
+public class Basic2 {
 
     public static void main(String[] args) {
-        new gui();	//just create a GUI object to run the code
+        new GUI2();	//just create a GUI object to run the code
     }
 
 }
