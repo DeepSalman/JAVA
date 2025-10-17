@@ -6,7 +6,7 @@ import java.awt.event.ActionListener;
 
 class GUI2 implements ActionListener //implement ActionListener function to use Button action and other actions
 {
-    //Declare the required GUI variables
+    //Declare the required FINAL.FINAL.GUI variables
     JFrame frame;	//Frame is the screen where you add the components
     JLabel username;	//Text for username
     JTextField name;	//TextField for typing the username
@@ -86,7 +86,7 @@ class GUI2 implements ActionListener //implement ActionListener function to use 
 public class Basic2 {
 
     public static void main(String[] args) {
-        new GUI2();	//just create a GUI object to run the code
+        new GUI2();	//just create a FINAL.FINAL.GUI object to run the code
     }
 
 }

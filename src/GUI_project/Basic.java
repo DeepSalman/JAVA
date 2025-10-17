@@ -5,7 +5,7 @@ import java.awt.event.ActionListener;
 
 class gui implements ActionListener //implement ActionListener function to use Button action and other actions
 {
-    //Declare the required GUI variables
+    //Declare the required FINAL.FINAL.GUI variables
     JFrame frame;	//Frame is the screen where you add the components
     JLabel username;	//Text for username
     JTextField name;	//TextField for typing the username
@@ -72,7 +72,7 @@ class gui implements ActionListener //implement ActionListener function to use B
 class Main {
 
     public static void main(String[] args) {
-        new gui();	//just create a GUI object to run the code
+        new gui();	//just create a FINAL.FINAL.GUI object to run the code
     }
 
 }
