@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Gui">
-      <change afterPath="$PROJECT_DIR$/src/FINAL/GUI/Fall24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FINAL/GUI/Spring25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI_project/Basic3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI_project/Basic4.java" afterDir="false" />
+    <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Final Solve">
+      <change afterPath="$PROJECT_DIR$/src/FINAL/Thread/Fall24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FINAL/Thread/Spring24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FINAL/Thread/Summer24.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI_project/Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI_project/Basic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI_project/Basic2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI_project/Basic2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +66,7 @@
     "Application.Encap2.executor": "Run",
     "Application.ExcForward.executor": "Run",
     "Application.ExceptionException.executor": "Run",
+    "Application.ExpressionCalculator.executor": "Run",
     "Application.FinalVariable.executor": "Run",
     "Application.Gui_DEMO.executor": "Run",
     "Application.HashMapDemo.executor": "Run",
@@ -79,6 +77,7 @@
     "Application.MathOpra.executor": "Run",
     "Application.MiniProblem.executor": "Run",
     "Application.MobileUser.executor": "Run",
+    "Application.Movie.executor": "Run",
     "Application.NestedTryCatch.executor": "Run",
     "Application.OneDArray.executor": "Run",
     "Application.ParaCons.executor": "Run",
@@ -108,6 +107,7 @@
     "Application.TypeCasting.executor": "Run",
     "Application.UserDefinedExcExp.executor": "Run",
     "Application.UserdefinedException.executor": "Run",
+    "Application.ZCalculator.executor": "Run",
     "Application.poly1.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -189,15 +189,8 @@
       <workItem from="1760428887570" duration="855000" />
       <workItem from="1760629916069" duration="1075000" />
       <workItem from="1760636442570" duration="4828000" />
-      <workItem from="1760678581500" duration="1284000" />
-    </task>
-    <task id="LOCAL-00017" summary="Static Variable Example 3">
-      <option name="closed" value="true" />
-      <created>1753619094440</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1753619094440</updated>
+      <workItem from="1760678581500" duration="1558000" />
+      <workItem from="1761580995544" duration="1943000" />
     </task>
     <task id="LOCAL-00018" summary="Static method example">
       <option name="closed" value="true" />
@@ -583,7 +576,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760679090214</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Final Solve">
+      <option name="closed" value="true" />
+      <created>1760679892095</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1760679892095</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -611,11 +612,11 @@
     <MESSAGE value="Uni class Interface Basics" />
     <MESSAGE value="Try and catch Basics" />
     <MESSAGE value="ArrayList" />
-    <MESSAGE value="Final Solve" />
     <MESSAGE value="CT solve" />
     <MESSAGE value="Project OOP" />
     <MESSAGE value="Gui" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gui" />
+    <MESSAGE value="Final Solve" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Solve" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
