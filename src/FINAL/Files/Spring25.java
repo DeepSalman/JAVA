@@ -21,10 +21,7 @@ class information{
 
     }
 
-    public int sum() {
-        sum = m1 + m2;
-        return sum;
-    }
+
 
 }
 
@@ -58,7 +55,7 @@ public class Spring25 {
             BufferedWriter bw2 = new BufferedWriter(fw2);
             for(int i=0;i<info.size();i++){
                 int total = info.get(i).m1+info.get(i).m2;
-               bw2.write(info.get(i).id+" "+total);
+               bw2.write(info.get(i).name+" "+total);
                bw2.newLine();
             }
             bw2.close();

@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Final Solve">
-      <change afterPath="$PROJECT_DIR$/src/FINAL/Files/Spring24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FINAL/Files/sp24in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FINAL/Files/sp24out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FINAL/Files/Spring24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FINAL/Files/Spring24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FINAL/Files/Spring25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FINAL/Files/Spring25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FINAL/Files/Summer24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FINAL/Files/Summer24.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,91 +45,91 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ABSbasics.executor": "Run",
-    "Application.ArrayClassTopic.executor": "Run",
-    "Application.Basic.executor": "Run",
-    "Application.Basic1.executor": "Run",
-    "Application.Basic2.executor": "Run",
-    "Application.Basic3.executor": "Run",
-    "Application.Basic4.executor": "Run",
-    "Application.Basics.executor": "Run",
-    "Application.Blocks.executor": "Run",
-    "Application.Cls1.executor": "Run",
-    "Application.Code1.executor": "Run",
-    "Application.Code2.executor": "Run",
-    "Application.Code3.executor": "Run",
-    "Application.ConsOverload.executor": "Run",
-    "Application.DefCons.executor": "Run",
-    "Application.Delete.executor": "Run",
-    "Application.DemoClass.executor": "Run",
-    "Application.Encap.executor": "Run",
-    "Application.Encap2.executor": "Run",
-    "Application.ExcForward.executor": "Run",
-    "Application.ExceptionException.executor": "Run",
-    "Application.ExpressionCalculator.executor": "Run",
-    "Application.Fall24.executor": "Run",
-    "Application.FinalVariable.executor": "Run",
-    "Application.Gui_DEMO.executor": "Run",
-    "Application.HashMapDemo.executor": "Run",
-    "Application.Inherit1.executor": "Run",
-    "Application.Interface.executor": "Run",
-    "Application.LinkedListBasic.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MathOpra.executor": "Run",
-    "Application.MiniProblem.executor": "Run",
-    "Application.MobileUser.executor": "Run",
-    "Application.Movie.executor": "Run",
-    "Application.NestedTryCatch.executor": "Run",
-    "Application.OneDArray.executor": "Run",
-    "Application.ParaCons.executor": "Run",
-    "Application.Poly2.executor": "Run",
-    "Application.PolyPractice.executor": "Run",
-    "Application.Practice.executor": "Run",
-    "Application.Practice1.executor": "Run",
-    "Application.PrivateInheritance.executor": "Run",
-    "Application.ProductList.executor": "Run",
-    "Application.PrtacticeClass.executor": "Run",
-    "Application.RockPaperScissorsGUI.executor": "Run",
-    "Application.Shaziah.executor": "Run",
-    "Application.Spring24.executor": "Run",
-    "Application.Spring25.executor": "Run",
-    "Application.StaVariable.executor": "Run",
-    "Application.StartPage.executor": "Run",
-    "Application.StatBlock.executor": "Run",
-    "Application.StatMethod.executor": "Run",
-    "Application.StatVariable2.executor": "Run",
-    "Application.StaticClassTopic.executor": "Run",
-    "Application.String3.executor": "Run",
-    "Application.String4.executor": "Run",
-    "Application.StringInput.executor": "Run",
-    "Application.Strings.executor": "Run",
-    "Application.Strings2.executor": "Run",
-    "Application.StudentClass.executor": "Run",
-    "Application.Summer24.executor": "Run",
-    "Application.TC.executor": "Run",
-    "Application.TestStatMethod.executor": "Run",
-    "Application.TypeCasting.executor": "Run",
-    "Application.UserDefinedExcExp.executor": "Run",
-    "Application.UserdefinedException.executor": "Run",
-    "Application.ZCalculator.executor": "Run",
-    "Application.poly1.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Java Projects/NormalView",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "F:/Java Projects/NormalView/src/Main.java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ABSbasics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayClassTopic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Basic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Basic1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Basic2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Basic3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Basic4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Basics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Blocks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cls1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Code1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Code2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Code3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConsOverload.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DefCons.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Delete.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encap2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExcForward.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExpressionCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fall24.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinalVariable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Gui_DEMO.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMapDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inherit1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListBasic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MathOpra.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MiniProblem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MobileUser.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Movie.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestedTryCatch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OneDArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ParaCons.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Poly2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PolyPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrivateInheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrtacticeClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RockPaperScissorsGUI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shaziah.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Spring24.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Spring25.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaVariable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StartPage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StatBlock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StatMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StatVariable2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticClassTopic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringInput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Strings2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Summer24.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TC.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestStatMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypeCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserDefinedExcExp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserdefinedException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.poly1.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Java Projects/NormalView&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;F:/Java Projects/NormalView/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Java Projects\NormalView\src\ArrayList" />
@@ -218,14 +218,7 @@
       <workItem from="1760678581500" duration="1558000" />
       <workItem from="1761580995544" duration="3699000" />
       <workItem from="1761652771460" duration="8421000" />
-    </task>
-    <task id="LOCAL-00023" summary="Math class exploration">
-      <option name="closed" value="true" />
-      <created>1753683812782</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1753683812782</updated>
+      <workItem from="1761667788902" duration="4603000" />
     </task>
     <task id="LOCAL-00024" summary="Understanding Encapsulation.">
       <option name="closed" value="true" />
@@ -611,7 +604,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761655519194</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Final Solve">
+      <option name="closed" value="true" />
+      <created>1761668358915</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1761668358915</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
