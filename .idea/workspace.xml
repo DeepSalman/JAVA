@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Final Solve">
-      <change beforePath="$PROJECT_DIR$/src/FINAL/Thread/Fall24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FINAL/Thread/Fall24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FINAL/Files/Fall24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FINAL/Files/Spring25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FINAL/Files/f24in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FINAL/Files/f24out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FINAL/Files/s25in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FINAL/Files/s25out1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FINAL/Files/s25out2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FINAL/Thread/ThreadPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FINAL/Thread/Spring24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FINAL/Thread/Spring24.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +63,9 @@
     "Application.Basics.executor": "Run",
     "Application.Blocks.executor": "Run",
     "Application.Cls1.executor": "Run",
+    "Application.Code1.executor": "Run",
     "Application.Code2.executor": "Run",
+    "Application.Code3.executor": "Run",
     "Application.ConsOverload.executor": "Run",
     "Application.DefCons.executor": "Run",
     "Application.Delete.executor": "Run",
@@ -87,6 +98,7 @@
     "Application.PrtacticeClass.executor": "Run",
     "Application.RockPaperScissorsGUI.executor": "Run",
     "Application.Shaziah.executor": "Run",
+    "Application.Spring25.executor": "Run",
     "Application.StaVariable.executor": "Run",
     "Application.StartPage.executor": "Run",
     "Application.StatBlock.executor": "Run",
@@ -129,6 +141,26 @@
       <recent name="C:\Java Projects\NormalView\src\LabClassOOPTpc" />
       <recent name="C:\Java Projects\NormalView\src\Arrays" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Spring25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FINAL.Files.Spring25" />
+      <module name="NormalView" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FINAL.Files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Spring25" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -187,15 +219,8 @@
       <workItem from="1760629916069" duration="1075000" />
       <workItem from="1760636442570" duration="4828000" />
       <workItem from="1760678581500" duration="1558000" />
-      <workItem from="1761580995544" duration="2411000" />
-    </task>
-    <task id="LOCAL-00020" summary="Static Block Example">
-      <option name="closed" value="true" />
-      <created>1753620430987</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1753620430987</updated>
+      <workItem from="1761580995544" duration="3699000" />
+      <workItem from="1761652771460" duration="1699000" />
     </task>
     <task id="LOCAL-00021" summary="Math class exploration">
       <option name="closed" value="true" />
@@ -581,7 +606,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761583241601</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Final Solve">
+      <option name="closed" value="true" />
+      <created>1761583431334</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1761583431334</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

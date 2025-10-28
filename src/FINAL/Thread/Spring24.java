@@ -1,5 +1,6 @@
 package FINAL.Thread;
 
+
 class MovieTheater {
     int availableSeats;
 
