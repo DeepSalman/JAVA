@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="432aa493-61c0-4a8e-95b6-ce1577598008" name="Changes" comment="Final Solve">
-      <change afterPath="$PROJECT_DIR$/src/FINAL/Files/Summer24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FINAL/Files/s24in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FINAL/Files/s24out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FINAL/Files/Spring24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FINAL/Files/sp24in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FINAL/Files/sp24out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,6 +93,7 @@
     "Application.PrtacticeClass.executor": "Run",
     "Application.RockPaperScissorsGUI.executor": "Run",
     "Application.Shaziah.executor": "Run",
+    "Application.Spring24.executor": "Run",
     "Application.Spring25.executor": "Run",
     "Application.StaVariable.executor": "Run",
     "Application.StartPage.executor": "Run",
@@ -216,15 +217,7 @@
       <workItem from="1760636442570" duration="4828000" />
       <workItem from="1760678581500" duration="1558000" />
       <workItem from="1761580995544" duration="3699000" />
-      <workItem from="1761652771460" duration="2655000" />
-    </task>
-    <task id="LOCAL-00022" summary="Math class exploration">
-      <option name="closed" value="true" />
-      <created>1753683368312</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1753683368312</updated>
+      <workItem from="1761652771460" duration="8421000" />
     </task>
     <task id="LOCAL-00023" summary="Math class exploration">
       <option name="closed" value="true" />
@@ -610,7 +603,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761654709977</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Final Solve">
+      <option name="closed" value="true" />
+      <created>1761655519193</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1761655519194</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
